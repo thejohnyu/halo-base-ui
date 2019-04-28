@@ -11,6 +11,10 @@ import { Switch, Route } from 'react-router-dom';
 
 // Components
 import NavBar from '../navbar';
+import Home from '../public/home';
+import Footer from '../public/footer';
+import LeftSideBar from '../leftsidebar';
+import RightSideBar from '../rightsidebar';
 
 const AppWrapper = styled.div`
   margin: 0 auto;
@@ -26,6 +30,14 @@ const Root = () => (
       <meta name="description" content="Fasting" />
     </Helmet>
     <NavBar />
+    <LeftSideBar />
+    <Switch >
+
+      <Route exact path="/" component={Home} />
+
+    </Switch>
+    <RightSideBar />
+    <Footer />
   </AppWrapper>
 )
 
