@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="13px" viewBox="0 0 19 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M9.17377499,11.8406624 C8.69606008,12.2237409 8,11.8727519 8,11.2487852 L8,0.751214789 C8,0.127248069 8.69606008,-0.223740899 9.17377499,0.159337611 L15.7192295,5.40812282 C16.0935902,5.70832176 16.0935902,6.29167824 15.7192295,6.59187718 L9.17377499,11.8406624 Z M14.0881294,6 L9.45454545,2.28433948 L9.45454545,9.71566052 L14.0881294,6 Z M1.17377499,11.8406624 C0.696060077,12.2237409 0,11.8727519 0,11.2487852 L0,0.751214789 C0,0.127248069 0.696060077,-0.223740899 1.17377499,0.159337611 L7.71922954,5.40812282 C8.09359015,5.70832176 8.09359015,6.29167824 7.71922954,6.59187718 L1.17377499,11.8406624 Z M6.08812943,6 L1.45454545,2.28433948 L1.45454545,9.71566052 L6.08812943,6 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Employer-Candidate-Fwd-Candidate" transform="translate(-1000.000000, -863.000000)">
+            <g id="Group-2" transform="translate(1000.000000, 863.000000)">
+                <g id="Fwd" fill="#ADE86C">
+                    <polygon id="Triangle" transform="translate(5.000000, 5.000000) rotate(90.000000) translate(-5.000000, -5.000000) " points="5 0 10 10 0 10"></polygon>
+                    <polygon id="Triangle" transform="translate(13.000000, 5.000000) rotate(90.000000) translate(-13.000000, -5.000000) " points="13 0 18 10 8 10"></polygon>
+                </g>
+                <g id="fast-forward" transform="translate(3.000000, 1.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Combined-Shape" fill="#15740B" fill-rule="nonzero" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

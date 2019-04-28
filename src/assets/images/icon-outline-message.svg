@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="17px" viewBox="0 0 17 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>message-square</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M3.64895924,12.1477416 C3.80836516,11.9883516 4.02456598,11.8988073 4.25,11.8988073 L14.45,11.8988073 C14.919442,11.8988073 15.3,11.5182875 15.3,11.0488925 L15.3,2.54974442 C15.3,2.08034943 14.919442,1.69982961 14.45,1.69982961 L2.55,1.69982961 C2.08055796,1.69982961 1.7,2.08034943 1.7,2.54974442 L1.7,14.0965055 L3.64895924,12.1477416 Z M4.60208153,13.5986369 L1.45104076,16.7493618 C0.915570632,17.2847783 0,16.9055745 0,16.1483813 L0,2.54974442 C0,1.14155946 1.14167389,0 2.55,0 L14.45,0 C15.8583261,0 17,1.14155946 17,2.54974442 L17,11.0488925 C17,12.4570774 15.8583261,13.5986369 14.45,13.5986369 L4.60208153,13.5986369 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Employer-Candidate" transform="translate(-895.000000, -854.000000)">
+            <g id="Message" transform="translate(878.000000, 854.000000)">
+                <g id="message-square" transform="translate(17.000000, 0.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Shape" fill="#454545" fill-rule="nonzero" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

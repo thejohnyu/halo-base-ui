@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="7px" viewBox="0 0 12 7" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.8">
+        <g id="Employer-Post-A-Job-Onboarding" transform="translate(-1279.000000, -2336.000000)" fill="#297FCA">
+            <g id="Footer-#6" transform="translate(3.000000, 2177.000000)">
+                <g id="Back-to-the-top" transform="translate(1157.000000, 152.000000)">
+                    <path d="M127.020092,15.9058529 L122.184029,10.9545588 C121.938657,10.7035 121.938657,10.2965 122.184029,10.0454412 L127.020092,5.09414706 C127.14262,4.96861765 127.34157,4.96861765 127.464098,5.09414706 L127.908104,5.54870588 C128.030632,5.67423529 128.030632,5.87773529 127.908104,6.00326471 L123.737733,10.2725588 C123.615205,10.3980882 123.615205,10.6019118 123.737733,10.7271176 L127.908104,14.9967353 C128.030632,15.1222647 128.030632,15.3257647 127.908104,15.4512941 L127.464098,15.9058529 C127.34157,16.0313824 127.14262,16.0313824 127.020092,15.9058529" id="Icon" transform="translate(125.000000, 10.500000) scale(-1, 1) rotate(-270.000000) translate(-125.000000, -10.500000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
