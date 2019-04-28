@@ -15,25 +15,33 @@ import Footer from '../public/footer';
 import LeftSideBar from '../leftsidebar';
 import RightSideBar from '../rightsidebar';
 
-// Holy Grail Components
+// Holy Grail Components --> HGL.${wrapperName}
 
-import { HolyGrailLayout } from '../../pages';
+import { HolyGrailLayout as HGL } from '../../pages';
 
 const Root = () => (
-  <HolyGrailLayout.AppWrapper>
+  <HGL.AppWrapper>
     <Helmet titleTemplate="%s - Fasting" defaultTitle="Fasting-Webapp">
       <meta name="description" content="Fasting" />
     </Helmet>
-    <NavBar />
-    <LeftSideBar />
-    <Switch >
-
-      <Route exact path="/" component={Home} />
-
-    </Switch>
-    <RightSideBar />
-    <Footer />
-  </HolyGrailLayout.AppWrapper>
+    <HGL.NavBarWrapper>
+      <NavBar />
+    </HGL.NavBarWrapper>
+    <HGL.LeftSideBarWrapper>
+      <LeftSideBar />
+    </HGL.LeftSideBarWrapper>
+    <HGL.MainWrapper>
+      <Switch >
+        <Route exact path="/" component={Home} />
+      </Switch>
+    </HGL.MainWrapper>
+    <HGL.RightSideBarWrapper>
+      <RightSideBar />
+    </HGL.RightSideBarWrapper>
+    <HGL.FooterWrapper>
+      <Footer />
+    </HGL.FooterWrapper>
+  </HGL.AppWrapper>
 )
 
 export default Root;
