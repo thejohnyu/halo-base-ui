@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M7.06066017,6 L11.0303301,9.96966991 C11.3232233,10.2625631 11.3232233,10.7374369 11.0303301,11.0303301 C10.7374369,11.3232233 10.2625631,11.3232233 9.96966991,11.0303301 L6,7.06066017 L2.03033009,11.0303301 C1.73743687,11.3232233 1.26256313,11.3232233 0.969669914,11.0303301 C0.676776695,10.7374369 0.676776695,10.2625631 0.969669914,9.96966991 L4.93933983,6 L0.969669914,2.03033009 C0.676776695,1.73743687 0.676776695,1.26256313 0.969669914,0.969669914 C1.26256313,0.676776695 1.73743687,0.676776695 2.03033009,0.969669914 L6,4.93933983 L9.96966991,0.969669914 C10.2625631,0.676776695 10.7374369,0.676776695 11.0303301,0.969669914 C11.3232233,1.26256313 11.3232233,1.73743687 11.0303301,2.03033009 L7.06066017,6 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Employer-Candidate" transform="translate(-1064.000000, -449.000000)">
+            <g id="x" transform="translate(1064.000000, 449.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Combined-Shape" fill="#D0021B" fill-rule="nonzero" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>

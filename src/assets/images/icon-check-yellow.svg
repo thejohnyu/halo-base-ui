@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="13px" viewBox="0 0 18 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>check</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M1.70710678,6.29289322 C1.31658249,5.90236893 0.683417511,5.90236893 0.292893219,6.29289322 C-0.0976310729,6.68341751 -0.0976310729,7.31658249 0.292893219,7.70710678 L5.29289322,12.7071068 C5.68341751,13.0976311 6.31658249,13.0976311 6.70710678,12.7071068 L17.7071068,1.70710678 C18.0976311,1.31658249 18.0976311,0.683417511 17.7071068,0.292893219 C17.3165825,-0.0976310729 16.6834175,-0.0976310729 16.2928932,0.292893219 L6,10.5857864 L1.70710678,6.29289322 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Employer-Candidate" transform="translate(-871.000000, -449.000000)">
+            <g id="Checked-skills" transform="translate(871.000000, 441.000000)">
+                <g id="check" transform="translate(0.000000, 8.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Shape" fill="#F5A623" fill-rule="nonzero" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

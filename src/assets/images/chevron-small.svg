@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="6px" viewBox="0 0 10 6" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/ chevron-small</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M5,4.18933983 L1.21936199,0.219669914 C0.940416064,-0.0732233047 0.488155365,-0.0732233047 0.209209442,0.219669914 C-0.0697364807,0.512563133 -0.0697364807,0.987436867 0.209209442,1.28033009 L4.49492373,5.78033009 C4.77386965,6.0732233 5.22613035,6.0732233 5.50507627,5.78033009 L9.79079056,1.28033009 C10.0697365,0.987436867 10.0697365,0.512563133 9.79079056,0.219669914 C9.51184464,-0.0732233047 9.05958394,-0.0732233047 8.78063801,0.219669914 L5,4.18933983 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Employer-Inbox-/-View-Message" transform="translate(-1150.000000, -294.000000)">
+            <g id="icon/-chevron-small" transform="translate(1150.000000, 294.000000)">
+                <g id="chevron-down">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Shape" fill="#707070" fill-rule="nonzero" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

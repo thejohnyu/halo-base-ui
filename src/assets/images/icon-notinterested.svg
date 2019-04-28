@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="79px" height="33px" viewBox="0 0 79 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Not Interested</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M11,17 C6.581722,17 3,13.418278 3,9 C3,4.581722 6.581722,1 11,1 C15.418278,1 19,4.581722 19,9 C19,13.418278 15.418278,17 11,17 Z M10.5,15 C14.0898509,15 17,12.0898509 17,8.5 C17,4.91014913 14.0898509,2 10.5,2 C6.91014913,2 4,4.91014913 4,8.5 C4,12.0898509 6.91014913,15 10.5,15 Z M7.7,9 C7.31340068,9 7,8.77614237 7,8.5 C7,8.22385763 7.31340068,8 7.7,8 L13.3,8 C13.6865993,8 14,8.22385763 14,8.5 C14,8.77614237 13.6865993,9 13.3,9 L7.7,9 Z" id="path-1"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Card/-Horizontal-Candidate-Not-Interested" transform="translate(-26.000000, -98.000000)">
+            <g id="Not-Interested" transform="translate(26.000000, 98.000000)">
+                <text opacity="0.799999952" font-family="Lato-Bold, Lato" font-size="12" font-weight="bold" line-spacing="25" fill="#D0021B">
+                    <tspan x="0.02" y="27">Not Interested</tspan>
+                </text>
+                <g id="minus-circle" transform="translate(28.000000, 0.000000)">
+                    <circle id="Oval-2" fill="#FFBFC7" cx="7" cy="7" r="7"></circle>
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Combined-Shape" fill="#D0021B" fill-rule="nonzero" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

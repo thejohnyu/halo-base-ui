@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="22px" viewBox="0 0 21 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M2,2 L2,7 L7,7 L7,2 L2,2 Z M1,0 L8,0 C8.55228475,0 9,0.44771525 9,1 L9,8 C9,8.55228475 8.55228475,9 8,9 L1,9 C0.44771525,9 0,8.55228475 0,8 L0,1 C0,0.44771525 0.44771525,0 1,0 Z M12,0 L19,0 C19.5522847,0 20,0.44771525 20,1 L20,8 C20,8.55228475 19.5522847,9 19,9 L12,9 C11.4477153,9 11,8.55228475 11,8 L11,1 C11,0.44771525 11.4477153,0 12,0 Z M13,7 L18,7 L18,2 L13,2 L13,7 Z M12,11 L19,11 C19.5522847,11 20,11.4477153 20,12 L20,19 C20,19.5522847 19.5522847,20 19,20 L12,20 C11.4477153,20 11,19.5522847 11,19 L11,12 C11,11.4477153 11.4477153,11 12,11 Z M13,18 L18,18 L18,13 L13,13 L13,18 Z M1,11 L8,11 C8.55228475,11 9,11.4477153 9,12 L9,19 C9,19.5522847 8.55228475,20 8,20 L1,20 C0.44771525,20 0,19.5522847 0,19 L0,12 C0,11.4477153 0.44771525,11 1,11 Z M2,18 L7,18 L7,13 L2,13 L2,18 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Employer-Matches-Mosaic-View" transform="translate(-405.000000, -436.000000)">
+            <g id="Group-4" transform="translate(405.000000, 436.000000)">
+                <g id="View-Type" fill="#73EACF">
+                    <rect id="Rectangle" x="0" y="0" width="10" height="7" rx="2"></rect>
+                    <rect id="Rectangle" x="0" y="11" width="10" height="7" rx="2"></rect>
+                    <rect id="Rectangle" x="11" y="0" width="10" height="7" rx="2"></rect>
+                    <rect id="Rectangle" x="11" y="11" width="10" height="7" rx="2"></rect>
+                </g>
+                <g id="grid" transform="translate(0.000000, 2.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Combined-Shape" fill="#3179CC" fill-rule="nonzero" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
