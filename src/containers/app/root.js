@@ -21,8 +21,8 @@ import { HolyGrailLayout as HGL } from '../../pages';
 
 const Root = () => (
   <HGL.AppWrapper>
-    <Helmet titleTemplate="%s - Fasting" defaultTitle="Fasting-Webapp">
-      <meta name="description" content="Fasting" />
+    <Helmet defaultTitle="Halo - Official Site">
+      <meta name="description" content="Halo" />
     </Helmet>
     <HGL.NavBarWrapper>
       <NavBar />
