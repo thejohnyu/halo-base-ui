@@ -6,7 +6,6 @@
 
 import React from 'react';
 import { Helmet } from 'react-helmet';
-import styled from 'styled-components';
 import { Switch, Route } from 'react-router-dom';
 
 // Components
@@ -16,16 +15,12 @@ import Footer from '../public/footer';
 import LeftSideBar from '../leftsidebar';
 import RightSideBar from '../rightsidebar';
 
-const AppWrapper = styled.div`
-  margin: 0 auto;
-  display: flex;
-  min-height: 100%;
-  padding: 0 0px;
-  flex-direction: column;
-`
+// Holy Grail Components
+
+import { HolyGrailLayout } from '../../pages';
 
 const Root = () => (
-  <AppWrapper>
+  <HolyGrailLayout.AppWrapper>
     <Helmet titleTemplate="%s - Fasting" defaultTitle="Fasting-Webapp">
       <meta name="description" content="Fasting" />
     </Helmet>
@@ -38,7 +33,7 @@ const Root = () => (
     </Switch>
     <RightSideBar />
     <Footer />
-  </AppWrapper>
+  </HolyGrailLayout.AppWrapper>
 )
 
 export default Root;
