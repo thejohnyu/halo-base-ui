@@ -6,7 +6,6 @@
 
 import React from 'react';
 import { Helmet } from 'react-helmet';
-import styled from 'styled-components';
 import { Switch, Route } from 'react-router-dom';
 
 // Components
@@ -16,29 +15,33 @@ import Footer from '../public/footer';
 import LeftSideBar from '../leftsidebar';
 import RightSideBar from '../rightsidebar';
 
-const AppWrapper = styled.div`
-  margin: 0 auto;
-  display: flex;
-  min-height: 100%;
-  padding: 0 0px;
-  flex-direction: column;
-`
+// Holy Grail Components --> HGL.${wrapperName}
+
+import { HolyGrailLayout as HGL } from '../../pages';
 
 const Root = () => (
-  <AppWrapper>
+  <HGL.AppWrapper>
     <Helmet titleTemplate="%s - Fasting" defaultTitle="Fasting-Webapp">
       <meta name="description" content="Fasting" />
     </Helmet>
-    <NavBar />
-    <LeftSideBar />
-    <Switch >
-
-      <Route exact path="/" component={Home} />
-
-    </Switch>
-    <RightSideBar />
-    <Footer />
-  </AppWrapper>
+    <HGL.NavBarWrapper>
+      <NavBar />
+    </HGL.NavBarWrapper>
+    <HGL.LeftSideBarWrapper>
+      <LeftSideBar />
+    </HGL.LeftSideBarWrapper>
+    <HGL.MainWrapper>
+      <Switch >
+        <Route exact path="/" component={Home} />
+      </Switch>
+    </HGL.MainWrapper>
+    <HGL.RightSideBarWrapper>
+      <RightSideBar />
+    </HGL.RightSideBarWrapper>
+    <HGL.FooterWrapper>
+      <Footer />
+    </HGL.FooterWrapper>
+  </HGL.AppWrapper>
 )
 
 export default Root;
