@@ -1,7 +1,6 @@
 import React from 'react';
+import {StyledLink} from 'baseui/link';
 
-const Footer = () => (
-  <div>footer</div>
-)
-
-export default Footer;
+export default () => (
+  <StyledLink href="https://baseui.design">Link to baseui.design</StyledLink>
+);
