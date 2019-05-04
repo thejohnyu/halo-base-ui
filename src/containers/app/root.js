@@ -17,7 +17,7 @@ import RightSideBar from '../rightsidebar';
 
 // Holy Grail Components --> HGL.${wrapperName}
 
-import { HolyGrailLayout as HGL } from '../../pages';
+import { HolyGrailLayout as HGL } from '../../layout';
 
 const Root = () => (
   <HGL.AppWrapper>
