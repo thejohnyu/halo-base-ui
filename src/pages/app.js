@@ -9,8 +9,9 @@ export const AppWrapper = styled.div`
     "footer footer footer";
 
   grid-template-columns: 1fr 6fr 1fr;
-  grid-template-rows: 75px 4fr 67px;
+  grid-template-rows: 1fr 4fr 1fr;
   grid-gap: 10px;
 
   height: 100vh;
+  
 `;
