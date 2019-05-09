@@ -13,5 +13,16 @@ export const AppWrapper = styled.div`
   grid-gap: 10px;
 
   height: 100vh;
-  
+  ${'' /* @media screen and (max-width: 768px) {
+    display: grid;
+    grid-template-areas:
+    "navbar"
+    "main"
+    "footer";
+
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 4fr 1fr;
+    grid-gap: 10px;
+    height: 100vh;
+  } */}
 `;
